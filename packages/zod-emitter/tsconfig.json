@@ -9,7 +9,8 @@
     "outDir": "dist",
     "sourceMap": true,
     "declaration": true,
-
+    "jsx": "preserve",
+    "jsxImportSource": "@alloy-js/core",
     /* Linting */
     "strict": true
   },
